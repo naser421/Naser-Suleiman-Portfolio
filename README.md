@@ -25,7 +25,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Portfolio Screenshot
 
-![Snip](./assets/mainInterface.JPG)
+![Snip](./assets/mainInterface.JPG) 
 
 ## Link 
   

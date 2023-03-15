@@ -10,7 +10,7 @@ This project is license under MIT ![Github licence](http://img.shields.io/badge/
 
 ## Installation 
 
-1. First clone the repository
+1. First clone the repository 
 1. Install `node.js`
 1. Run `npm install` to install the respective dependencies. 
 1. Run `npm start` in order to start the web server and connect

@@ -23,22 +23,22 @@
     "deploy": "https://naser421.github.io/WeatherDashboard/",
     "topics": "Weather Dashboard built using javascript"
   },
-    {
-        "id": 4,
-        "name": "Weather Dashboard",
-        "image": "https://github.com/fondofhats/weather-dashboard/raw/master/weather-dashboard.png",
-        "github": "https://github.com/fondofhats/weather-dashboard",
-        "deploy": "https://fondofhats.github.io/weather-dashboard/",
-        "topics": "moment.js, javascript, jQuery, localStorage, API"
-    },
-    {
-        "id": 5,
-        "name": "Budget Tracker",
-        "image": "https://github.com/fondofhats/pwa-budget-tracker/raw/main/docs/pwa-budget-tracker.png",
-        "github": "https://github.com/fondofhats/pwa-budget-tracker",
-        "deploy": "https://pwa-budget-traker.herokuapp.com/",
-        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
-    },
+  {
+    "id": 4,
+    "name": "Tryst",
+    "image": "https://user-images.githubusercontent.com/112986806/225185995-dd1caf25-cb4a-469d-b40e-a4faa03cf35c.JPG",
+    "github": "https://github.com/naser421/Tryst",
+    "deploy": "https://naser421.github.io/Tryst/",
+    "topics": "Tryst is a Rendezvous software that can assist strangers who have connected on dating websites in coming up with creative date concepts!"
+  },
+  {
+    "id": 5,
+    "name": "Work Day Scheduler",
+    "image": "https://user-images.githubusercontent.com/112986806/225186522-220e7d0a-61fc-4e9a-a281-0480796935a0.JPG",
+    "github": "https://github.com/naser421/WorkDayScheduler_NaserSuleiman",
+    "deploy": "https://naser421.github.io/WorkDayScheduler_NaserSuleiman/",
+    "topics": "Application that allows you to schedule yourself for the current day"
+  },
     {
         "id": 6,
         "name": "Work Day Scheduler",

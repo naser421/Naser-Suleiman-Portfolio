@@ -6,7 +6,7 @@ import { StaleWhileRevalidate } from 'workbox-strategies';
 
 clientsClaim();
 
-precacheAndRoute(self.__WB_MANIFEST);
+precacheAndRoute(self.__WB_MANIFEST); /* eslint-disable-line no-restricted-globals */
 
 const fileExtensionRegexp = new RegExp('/[^/?]+\\.[^/]+$');
 registerRoute(
@@ -33,7 +33,7 @@ registerRoute(
 
 registerRoute(
   
-  ({ url }) => url.origin === self.location.origin && url.pathname.endsWith('.png'), 
+    ({ url }) => url.origin === self.location.origin && url.pathname.endsWith('.png'), /* eslint-disable-line no-restricted-globals */
   new StaleWhileRevalidate({
     cacheName: 'images',
     plugins: [
@@ -43,8 +43,8 @@ registerRoute(
   })
 );
 
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
+self.addEventListener('message', (event) => { /* eslint-disable-line no-restricted-globals */
+    if (event.data && event.data.type === 'SKIP_WAITING') { /* eslint-disable-line no-restricted-globals */
+        self.skipWaiting();/* eslint-disable-line no-restricted-globals */
   }
 });

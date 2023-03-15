@@ -16,7 +16,7 @@ function Resume() {
           </ul>
 
          <a
-                      href="https://github.com/naser421/NoSQL-Challenge-Social-Network-API/files/10975053/Naser_Resume.pdf"
+                      href="https://github.com/naser421/React-Portfolio-Challenge/files/10975130/Naser_Resume.pdf"
             class="link"
           >
             Download My Resume 

@@ -11,7 +11,7 @@ function Resume() {
           <h2 className="top-title">Naser Suleiman</h2>
           <ul>
             <li>
-                          Aspiring Frontend and UI developer looking to work on challenging, JavaScript based applications.
+                          Aspiring Frontend and UI developer looking to work on challenging JavaScript based applications.
             </li>
           </ul>
 

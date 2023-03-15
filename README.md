@@ -25,7 +25,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Screenshots 
 
-![Snip](./assets/App_Snip.JPG)
+![Snip](./assets/mainInterface.JPG)
 
 ## Link 
 <a href=" ">Live Link</a>

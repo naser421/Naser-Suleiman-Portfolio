@@ -39,12 +39,12 @@
     "deploy": "https://naser421.github.io/WorkDayScheduler_NaserSuleiman/",
     "topics": "Application that allows you to schedule yourself for the current day"
   },
-    {
-        "id": 6,
-        "name": "Work Day Scheduler",
-        "image": "https://github.com/fondofhats/workday-scheduler/raw/master/workday-scheduler.png",
-        "github": "https://github.com/fondofhats/workday-scheduler",
-        "deploy": "https://fondofhats.github.io/workday-scheduler/",
-        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
-    }
+  {
+    "id": 6,
+    "name": "Smart Stack",
+    "image": "https://user-images.githubusercontent.com/112986806/225187703-397c0e6f-4835-44da-a630-3ea5072c7c05.jpg",
+    "github": "https://github.com/naser421/Smart-Stack",
+    "deploy": "https://smart-stack-app.herokuapp.com/",
+    "topics": "The go to web application for anyone who is looking to ace their technical coding interview."
+  }
 ]

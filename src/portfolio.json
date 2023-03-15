@@ -1,12 +1,12 @@
 [
-    {
-        "id": 1,
-        "name": "React Retreat",
-        "image": "https://github.com/kpehl/react-retreat/raw/main/docs/react-retreat.png",
-        "github": "https://github.com/kpehl/react-retreat",
-        "deploy": "https://react-retreat.herokuapp.com/",
-        "topics": "Reactjs, Creat-React-App service worker, GraphQl, Redux, JWT Authentication, ReactStrap, node, express-session, jawsdb, mongodb, mongoose"
-    },
+  {
+    "id": 1,
+    "name": "Text Editor",
+    "image": "https://user-images.githubusercontent.com/112986806/225182827-abc0273b-2f52-4d14-bb38-f0e5bdbed20d.JPG",
+    "github": "https://github.com/naser421/Text-Editor-19",
+    "deploy": "https://pwa-based-text-editor.herokuapp.com/",
+    "topics": "This is my text editor that you can use in the browser"
+  },
     {
         "id": 2,
         "name": "Week In View",

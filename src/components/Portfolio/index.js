@@ -12,8 +12,7 @@ function Portfolio () {
     return (
         <section className="container">
           <div className="project">
-            <h2 className="top-title">Bootcamp Portfolio</h2>
-            <hr></hr>
+           <hr></hr>
           </div>
 
           <Wrapper id="card-data">

@@ -2,7 +2,7 @@
 
 ## Description 
 
-I'd like to take this opportunity to welcome you to my React.js built portfolio. It contains subsections called Resume, Portfolio, Contact and About page. On the Portfolio tab, you can find a list of my favorite applications. On the page dedicated to my resume, you will discover a list of my skills and a link to download my resume. You can find connections to my LinkedIn and GitHub at the bottom.
+I'd like to take this opportunity to welcome you to my React.js built portfolio. It contains subsections called Resume, Portfolio, ContactÂ and About page. On the Portfolio tab, you can find a list of my favorite applications. On the page dedicated to my resume, you will discover a list of my skills and a link to download my resume. You can find connections to my LinkedIn and GitHub at the bottom.
 
 ## License 
 This project is license under MIT ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)

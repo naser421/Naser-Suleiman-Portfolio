@@ -17,7 +17,7 @@ function Resume() {
             </li>
           </ul>
 
-         <a href="https://github.com/naser421/React-Portfolio-Challenge/files/10975130/Naser_Resume.pdf"
+                  <a href="https://github.com/naser421/Naser-Suleiman-Portfolio/files/11193841/NaserSuleimanResume.pdf"
             class="link" > Download My Resume 
           </a>
         </div>

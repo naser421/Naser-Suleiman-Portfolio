@@ -6,7 +6,7 @@ function About() {
         <section className="container">
             <hr></hr>
             <div>
-                <img class="mb-5" id="avatar" src="https://user-images.githubusercontent.com/112986806/225180542-1f848ce9-2016-49d4-9660-60da56c23ecc.jpg" alt="Naser Suleiman" />
+                <img class="mb-5" id="avatar" src="https://user-images.githubusercontent.com/112986806/230993430-a9ee9291-f09c-4d93-9aab-3713136d5ce8.jpeg" alt="Naser Suleiman" />
 
                 <p>
                     Full Stack Developer with a background in healthcare, skilled in SQL, Node.js, and data analysis.Proficient in Epic EMR software, EndoPro by Pentax for billing, and bronchoscopy equipment and pulmonary procedures. 

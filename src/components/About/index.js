@@ -9,10 +9,10 @@ function About() {
                 <img class="mb-5" id="avatar" src="https://user-images.githubusercontent.com/112986806/225180542-1f848ce9-2016-49d4-9660-60da56c23ecc.jpg" alt="Naser Suleiman" />
 
                 <p>
-                    Organized and reliable Bronchoscopy Technician with patient care, customer service and sales experience.Outgoing clinical professional with a reputation of staying calm and focused at the problems at hand under high-stress situations. 
+                    Full Stack Developer with a background in healthcare, skilled in SQL, Node.js, and data analysis.Proficient in Epic EMR software, EndoPro by Pentax for billing, and bronchoscopy equipment and pulmonary procedures. 
                 </p>
                 <p>
-                    In addition, Naser is presently learning full-stack software development (HTML, CSS, Node, JavaScript, React, MongoDB) and is enthusiastic about future professional challenges and shifts.
+                    Adept at troubleshooting and maintaining equipment and running tests to make effective recommendations. Strong communication and customer service skills. Seeking a role that leverages both healthcare and technology experience.
                 </p>
                 
             </div>

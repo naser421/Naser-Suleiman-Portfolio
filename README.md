@@ -29,4 +29,4 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Link 
 
-https://naser421.github.io/React-Portfolio-Challenge/
+https://naser421.github.io/Naser-Suleiman-Portfolio/

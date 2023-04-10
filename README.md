@@ -23,9 +23,9 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 ```
 
-## Portfolio Screenshot
+## Portfolio Screenshot 
 
-![Snip](./assets/mainInterface.JPG) 
+![Snip](https://user-images.githubusercontent.com/112986806/231002713-74cacdd1-a409-4e30-afd0-592a36f2fd5d.jpeg) 
 
 ## Link 
 

@@ -27,7 +27,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
   },
-  "eslintConfig": {
+  "eslintConfig": { 
     "extends": [
       "react-app",
       "react-app/jest"

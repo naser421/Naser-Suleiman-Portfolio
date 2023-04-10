@@ -7,44 +7,22 @@
     "deploy": "https://pwa-based-text-editor.herokuapp.com/",
     "topics": "This is my text editor that you can use in the browser"
   },
+  
   {
     "id": 2,
-    "name": "Note Taker App",
-    "image": "https://user-images.githubusercontent.com/112986806/225184609-a4b9263c-0fa0-495e-9ac6-94879d2b84f0.JPG",
-    "github": "https://github.com/naser421/ExpressNoteTaker",
-    "deploy": "https://express-note-taker-application.herokuapp.com/",
-    "topics": "This is an app build to help with taking notes.It is build with express.js It saves data to a json file"
-  },
-  {
-    "id": 3,
     "name": "Weather Dashboard",
     "image": "https://user-images.githubusercontent.com/112986806/225185225-5531e3c2-ce4b-4835-ae8d-2b275836c556.JPG",
     "github": "https://github.com/naser421/WeatherDashboard",
     "deploy": "https://naser421.github.io/WeatherDashboard/",
     "topics": "Weather Dashboard built using javascript"
   },
+  
   {
-    "id": 4,
-    "name": "Tryst",
-    "image": "https://user-images.githubusercontent.com/112986806/225185995-dd1caf25-cb4a-469d-b40e-a4faa03cf35c.JPG",
-    "github": "https://github.com/naser421/Tryst",
-    "deploy": "https://naser421.github.io/Tryst/",
-    "topics": "Tryst is a Rendezvous software that can assist strangers who have connected on dating websites in coming up with creative date concepts!"
-  },
-  {
-    "id": 5,
+    "id": 3,
     "name": "Work Day Scheduler",
     "image": "https://user-images.githubusercontent.com/112986806/225186522-220e7d0a-61fc-4e9a-a281-0480796935a0.JPG",
     "github": "https://github.com/naser421/WorkDayScheduler_NaserSuleiman",
     "deploy": "https://naser421.github.io/WorkDayScheduler_NaserSuleiman/",
     "topics": "Application that allows you to schedule yourself for the current day"
-  },
-  {
-    "id": 6,
-    "name": "Smart Stack",
-    "image": "https://user-images.githubusercontent.com/112986806/225187703-397c0e6f-4835-44da-a630-3ea5072c7c05.jpg",
-    "github": "https://github.com/naser421/Smart-Stack",
-    "deploy": "https://smart-stack-app.herokuapp.com/",
-    "topics": "The go to web application for anyone who is looking to ace their technical coding interview."
   }
 ]
